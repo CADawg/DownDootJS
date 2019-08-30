@@ -11,6 +11,9 @@ Our licence is a slightly modified MIT Licence. We have added this:
 
 Our userscript has only been tested with [Tampermonkey](https://www.tampermonkey.net/) which has great support for wildcards. It supports Firefox, Opera, Chrome and Edge (as well as some less well known ones) so I believe it to be the best choice. Feel free to use your own userscript software, but it may not work.
 
+To install it, visit this link, it will open with your userscript manager (make sure you install one first):
+https://www.conor.icu/DownDootJS/DownDoot.user.js
+
 ## Contributing
 
 We encourage you to contribute to the plugin to make it more efficient. Please fork and then submit a PR detailing what you have changed.
