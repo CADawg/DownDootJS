@@ -1,4 +1,4 @@
-# DownDootJS - [Not Installed](https://www.conor.icu/DownDootJS/DownDoot.user.js?downdoot_challenge)
+# [DownDootJS](https://www.conor.icu/DownDootJS/DownDoot.user.js?downdoot_challenge)
 Stop Flag Retaliation on STEEM! Rename them to downdoots so nobody gets annoyed. Nobody can be mad at getting downdooted
 
 ## Licence
